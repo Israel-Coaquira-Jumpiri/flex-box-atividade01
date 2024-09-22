@@ -11,6 +11,8 @@ h1 {
 
 .caixa {
     border-radius: 5px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
 }
 
 .pai {
